@@ -30,7 +30,7 @@ Ensure you have Python 3.9+ installed.
 
 ```bash
 # Clone the repository and navigate to the directory
-cd stanford_assignment
+git clone <repository_url>
 
 # (Optional but recommended) Create and activate a virtual environment
 python -m venv .venv
